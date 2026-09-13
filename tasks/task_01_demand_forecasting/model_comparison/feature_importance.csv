@@ -1,0 +1,9 @@
+Feature,Importance
+year,0.96733195
+lag_1,0.012013081
+rolling_7,0.010723426
+day_of_week,0.007759544
+lag_7,0.0015147786
+day_of_year,0.0002821824
+lag_14,0.0002540141
+month,0.00012107734
