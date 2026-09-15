@@ -1,0 +1,4 @@
+scenario,price_change,demand_multiplier,revenue_multiplier,estimated_demand_change_%,estimated_revenue_change_%
+Baseline,0.0,1.0,1.0,0.0,0.0
+Price +5%,0.05,1.0372615264163063,1.0891246027371217,3.726152641630631,8.912460273712174
+Price -10%,-0.1,0.9240381082546055,0.831634297429145,-7.596189174539447,-16.836570257085505
