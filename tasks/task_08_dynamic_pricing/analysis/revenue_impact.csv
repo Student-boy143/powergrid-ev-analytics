@@ -1,0 +1,21 @@
+scenario_name,elasticity_assumed,elasticity_label,simulated_energy_kwh,energy_change_pct,simulated_revenue_gbp,revenue_diff_gbp,revenue_diff_pct
+Scenario 1: Baseline (Status Quo),0.0,Inelastic Benchmark (e = 0.0),13808745.8,0.0,8171073.69,-26.43,-0.0
+Scenario 1: Baseline (Status Quo),-0.2,Mild Elasticity (e = -0.2),13808745.8,0.0,8171073.69,-26.43,-0.0
+Scenario 1: Baseline (Status Quo),-0.5,Moderate Elasticity (e = -0.5),13808745.8,0.0,8171073.69,-26.43,-0.0
+Scenario 1: Baseline (Status Quo),-0.75,High Elasticity (e = -0.75),13808745.8,0.0,8171073.69,-26.43,-0.0
+Scenario 2: Time-of-Use (Peak / Off-Peak),0.0,Inelastic Benchmark (e = 0.0),13808745.8,0.0,8530310.2,359210.08,4.4
+Scenario 2: Time-of-Use (Peak / Off-Peak),-0.2,Mild Elasticity (e = -0.2),13684615.29,-0.9,8438492.58,267392.46,3.27
+Scenario 2: Time-of-Use (Peak / Off-Peak),-0.5,Moderate Elasticity (e = -0.5),13498419.53,-2.25,8300766.16,129666.04,1.59
+Scenario 2: Time-of-Use (Peak / Off-Peak),-0.75,High Elasticity (e = -0.75),13343256.4,-3.37,8185994.13,14894.01,0.18
+Scenario 3: Charger Speed Tiering,0.0,Inelastic Benchmark (e = 0.0),13808745.8,0.0,8305590.35,134490.23,1.65
+Scenario 3: Charger Speed Tiering,-0.2,Mild Elasticity (e = -0.2),13762489.93,-0.33,8261249.85,90149.73,1.1
+Scenario 3: Charger Speed Tiering,-0.5,Moderate Elasticity (e = -0.5),13693106.12,-0.84,8194739.1,23638.98,0.29
+Scenario 3: Charger Speed Tiering,-0.75,High Elasticity (e = -0.75),13635286.29,-1.26,8139313.47,-31786.65,-0.39
+Scenario 4: Regional Congestion Adjustment,0.0,Inelastic Benchmark (e = 0.0),13808745.8,0.0,8353872.74,182772.62,2.24
+Scenario 4: Regional Congestion Adjustment,-0.2,Mild Elasticity (e = -0.2),13745966.79,-0.45,8314710.5,143610.38,1.76
+Scenario 4: Regional Congestion Adjustment,-0.5,Moderate Elasticity (e = -0.5),13651798.28,-1.14,8255967.13,84867.01,1.04
+Scenario 4: Regional Congestion Adjustment,-0.75,High Elasticity (e = -0.75),13573324.52,-1.7,8207014.32,35914.2,0.44
+Scenario 5: Combined TOU & Speed Tiering,0.0,Inelastic Benchmark (e = 0.0),13808745.8,0.0,8670553.59,499453.47,6.11
+Scenario 5: Combined TOU & Speed Tiering,-0.2,Mild Elasticity (e = -0.2),13636349.39,-1.25,8528577.19,357477.07,4.37
+Scenario 5: Combined TOU & Speed Tiering,-0.5,Moderate Elasticity (e = -0.5),13377754.78,-3.12,8315612.58,144512.46,1.77
+Scenario 5: Combined TOU & Speed Tiering,-0.75,High Elasticity (e = -0.75),13162259.26,-4.68,8138142.07,-32958.05,-0.4

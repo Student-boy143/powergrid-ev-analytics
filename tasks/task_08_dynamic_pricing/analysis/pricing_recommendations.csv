@@ -1,0 +1,6 @@
+priority,strategy_pillar,target_segment,recommended_tariff,objective,evidence_basis,implementation_type
+1,Time-of-Use Off-Peak Incentive,Overnight (22:00-05:00),£0.473/kWh (-20%),Stimulate commercial fleet charging during deep trough (<1% volume),Analysis 7 trough at 03:00 AM (2.4 sess/day),90-Day Pilot at Highway Hubs
+2,Charger Speed Velocity Premium,DC_300kW Ultra-Rapid,£0.680/kWh (+15%),"Ration bays, accelerate clearance, recover ultra-rapid CapEx",Dwell time 19.5 min vs. 49.5 min for 50kW; flat baseline price,Phased Network Rollout
+3,Peak Congestion Surcharge,Midday Plateau (10:00-14:00),£0.680/kWh (+15%),Alleviate peak grid stress and reduce queue abandonment,40.97% of daily volume occurs in this 5-hour window,Controlled A/B Test Across Matched Stations
+4,Standard Rapid Accessibility,DC_50kW Standard Rapid,£0.535/kWh (-10%),Preserve affordability for long-dwell users (49.5 min dwell),Delivers lowest energy per minute; high price causes friction,Phased Network Rollout
+5,Regional Growth Incentive,Wales & Scotland,£0.562/kWh (-5%),Stimulate EV adoption in emerging regional networks,Wales accounts for only 3.45% of network sessions,Regional Promotion Campaign
