@@ -1,0 +1,19 @@
+station_region,customer_segment,total_sessions,total_energy_kwh,total_revenue
+London,Commercial,30532,1479311.6,873170.74
+London,Public,10228,498779.0,294721.83
+Midlands,Commercial,37770,1925304.2,1130467.05
+Midlands,Public,12828,651405.6,382421.67
+North East,Commercial,22960,1056188.1,625134.37
+North East,Public,7479,341862.2,202704.99
+North West,Commercial,49040,2238337.2,1303448.14
+North West,Public,16749,766797.9,446211.65
+Scotland,Commercial,15163,709749.1,426381.48
+Scotland,Public,5079,237261.4,142589.85
+South East,Commercial,18952,820971.9,490149.27
+South East,Public,6216,267523.2,160040.13
+South West,Commercial,22936,1191856.8,705768.69
+South West,Public,7465,388639.4,230798.09
+Wales,Commercial,7662,252865.3,155188.85
+Wales,Public,2497,82158.9,50287.75
+Yorkshire & Humber,Commercial,15255,670317.0,410773.28
+Yorkshire & Humber,Public,5213,229417.0,140842.29

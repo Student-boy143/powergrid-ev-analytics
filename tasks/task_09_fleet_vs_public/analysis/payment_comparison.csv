@@ -1,0 +1,7 @@
+payment_method,customer_segment,total_sessions,segment_share
+app,Commercial,73785,33.4975257638353
+app,Public,24482,33.19413184369661
+card,Commercial,73310,33.281881327461754
+card,Public,24553,33.2903978089324
+rfid,Commercial,73175,33.220592908702955
+rfid,Public,24719,33.51547034737099
