@@ -1,0 +1,4 @@
+period,total_session_growth_pct,station_count_growth_pct,chargers_count_growth_pct,like_for_like_session_growth_pct,new_station_session_contribution_pct,total_revenue_growth_pct,price_per_kwh_growth_pct,energy_per_session_growth_pct,primary_growth_driver
+2022 to 2023,111.94,112.5,137.21,-0.61,100.54,151.54,24.98,-5.04,Footprint Expansion (New Station & Charger Activation) + Energy Tariff Surge
+2023 to 2024,94.18,94.12,95.1,0.08,99.96,76.0,-8.02,-1.46,Footprint Expansion (16 New Stations Activated) with Tariff Normalization
+2022 to 2024 (Cumulative),311.55,312.5,362.79,-0.53,100.17,342.72,14.96,-6.42,"Full Network Rollout (8 -> 33 Stations, 43 -> 199 Chargers)"
