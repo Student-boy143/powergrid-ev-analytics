@@ -1,0 +1,5 @@
+Method,Type,Flagged_Count,Flagged_Pct,Overlap_with_IF
+IQR Statistical Rule,Statistical,5727,1.95,3502
+Z-Score (|Z| > 3.0),Statistical,804,0.27,527
+Isolation Forest (2.5%),Machine Learning,7351,2.5,7351
+Neural Autoencoder (97.5%),Deep Architecture,7351,2.5,785
